@@ -1,7 +1,7 @@
 # TheCodingTutor Magento Admin Theme (TCT_joy)
 ## Magento 2 Admin Theme
 
-Free Magento 2 Admin Theme with Emhanced Color Scheme
+Free Magento 2 Admin Theme with Enhanced Color Scheme
 ___________________________________________________________________________________________________
 
 More courses and tutorials about Magento 2 visit:
